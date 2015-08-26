@@ -5,9 +5,9 @@ It is a tool that helps you to easily convert PDF to Word documents with only a 
 
 ### Woocommerce
 
-> Version: 3.0
+> Version: 1.00
 > 
-> Release date: December 25, 2010
+> Release date: December 17, 2010
 >
 > Trial period: 15 days
 >
@@ -25,9 +25,9 @@ It is an award winning memory optimization tool.
 
 ### Woocommerce
 
-> Version: 3.0
+> Version: 1.40
 > 
-> Release date: December 25, 2010
+> Release date: August 09, 2006
 >
 > Trial period: 15 days
 >
@@ -41,6 +41,26 @@ It is an award winning memory optimization tool.
    It also display many useful information's about system memory (free, used and total physical memory, free, used and total page file, clipboard content size and CPU usage).
    
 >> Use our memory cleaner, RAM Booster Expert, and boost your computer free memory now!
+
+
+Outlook Express Backup Expert
+---------------------
+
+It is an award winning email backup tool designated for Outlook Express.
+
+### Woocommerce
+
+> Version: 1.40
+> 
+> Release date: September 20, 2006
+>
+> Trial period: 15 days
+>
+> Price: $19.95
+>
+> Thumbnail: th2-1-Box_05_Converter.png
+>
+>> **OUTLOOK EXPRESS BACKUP EXPERT** is an award winning email backup tool that helps you to create easily Outlook Express backup copies for your emails.
 
 
 
