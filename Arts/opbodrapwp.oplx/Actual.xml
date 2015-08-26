@@ -58,6 +58,7 @@
   <task id="t-1">
     <type>group</type>
     <child-task idref="t1"/>
+    <child-task idref="t9"/>
     <child-task idref="t5"/>
   </task>
   <task id="t1">
@@ -96,6 +97,20 @@
   </task>
   <task id="t8">
     <title>Subscribe newsletter</title>
+    <effort>28800</effort>
+  </task>
+  <task id="t9">
+    <title>Import Data</title>
+    <type>group</type>
+    <child-task idref="t10"/>
+    <child-task idref="t11"/>
+  </task>
+  <task id="t10">
+    <title>Softwares slide</title>
+    <effort>28800</effort>
+  </task>
+  <task id="t11">
+    <title>Softwares Product</title>
     <effort>28800</effort>
   </task>
   <critical-path root="-1" enabled="false" resources="false">

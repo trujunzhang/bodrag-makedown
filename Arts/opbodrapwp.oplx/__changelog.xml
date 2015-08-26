@@ -43,6 +43,19 @@
   <task-change-set user="djzhang" date="2015-08-26T02:14:00.226Z" timestamp="2015-08-26T02:14:00.226Z">
     <change idref="t5" attribute="title" type="string" from="Module" to="Modules" resolved="yes"/>
   </task-change-set>
+  <task-change-set user="djzhang" date="2015-08-26T03:31:53.485Z" timestamp="2015-08-26T03:31:53.485Z">
+    <change idref="t9" to="t-1" to-position="1" resolved="yes">
+      <change idref="t9" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t9" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t9" attribute="title" type="string" to="Import Data"/>
+    </change>
+    <change idref="t10" to="t9" to-position="0" resolved="yes">
+      <change idref="t10" attribute="title" type="string" to="Softwares slide"/>
+    </change>
+    <change idref="t11" to="t9" to-position="1" resolved="yes">
+      <change idref="t11" attribute="title" type="string" to="Softwares Product"/>
+    </change>
+  </task-change-set>
   <metadata-change-set user="djzhang" date="2015-08-26T02:08:14.685Z" timestamp="2015-08-26T02:08:14.685Z">
     <change idref="m1" attribute="fixedDate" type="date" from="2007-01-01T20:00:00.000Z" to="2015-08-26T00:00:00.000Z" resolved="yes"/>
   </metadata-change-set>
