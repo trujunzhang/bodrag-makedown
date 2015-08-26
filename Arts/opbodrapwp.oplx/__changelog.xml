@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<changelog xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
+  <version>2.1</version>
+  <task-change-set user="djzhang" date="2015-08-26T02:09:37.962Z" timestamp="2015-08-26T02:09:37.962Z">
+    <change idref="t1" attribute="isGroup" type="real" from="0" to="1" resolved="yes"/>
+    <change idref="t1" attribute="isSplittableTask" type="real" from="1" resolved="yes"/>
+    <change idref="t1" attribute="taskType" type="real" from="0" to="2" resolved="yes"/>
+    <change idref="t1" attribute="title" type="string" from="Task 1" to="TODO" resolved="yes"/>
+    <change idref="t1" attribute="resourceAssignmentType" type="real" from="0" resolved="yes"/>
+    <change idref="t1" attribute="staticCost" type="real" from="0" resolved="yes"/>
+    <change idref="t1" attribute="effort" type="real" from="28800" resolved="yes"/>
+    <change idref="t1" attribute="isSplitChunk" type="real" from="0" resolved="yes"/>
+    <change idref="t1" attribute="scheduleType" type="real" from="0" resolved="yes"/>
+    <change idref="t1" attribute="internalAssignments" type="string" from="" resolved="yes"/>
+    <change idref="t1" attribute="isSplitTask" type="real" from="0" resolved="yes"/>
+    <change idref="t1" attribute="internalEffortDone" type="real" from="0" resolved="yes"/>
+    <change idref="t2" to="t1" to-position="0" resolved="yes">
+      <change idref="t2" attribute="title" type="string" to="Import Logo"/>
+    </change>
+    <change idref="t3" to="t1" to-position="1" resolved="yes">
+      <change idref="t3" attribute="title" type="string" to="Site menu"/>
+    </change>
+    <change idref="t4" to="t1" to-position="2" resolved="yes">
+      <change idref="t4" attribute="title" type="string" to="Slide(products)"/>
+    </change>
+  </task-change-set>
+  <task-change-set user="djzhang" date="2015-08-26T02:11:02.590Z" timestamp="2015-08-26T02:11:02.590Z">
+    <change idref="t5" to="t-1" to-position="1" resolved="yes">
+      <change idref="t5" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t5" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t5" attribute="title" type="string" to="Module"/>
+    </change>
+    <change idref="t6" to="t5" to-position="0" resolved="yes">
+      <change idref="t6" attribute="title" type="string" to="latest products"/>
+    </change>
+    <change idref="t7" to="t5" to-position="1" resolved="yes">
+      <change idref="t7" attribute="title" type="string" to="latest news"/>
+    </change>
+    <change idref="t8" to="t5" to-position="2" resolved="yes">
+      <change idref="t8" attribute="title" type="string" to="Subscribe newsletter"/>
+    </change>
+  </task-change-set>
+  <task-change-set user="djzhang" date="2015-08-26T02:14:00.226Z" timestamp="2015-08-26T02:14:00.226Z">
+    <change idref="t5" attribute="title" type="string" from="Module" to="Modules" resolved="yes"/>
+  </task-change-set>
+  <metadata-change-set user="djzhang" date="2015-08-26T02:08:14.685Z" timestamp="2015-08-26T02:08:14.685Z">
+    <change idref="m1" attribute="fixedDate" type="date" from="2007-01-01T20:00:00.000Z" to="2015-08-26T00:00:00.000Z" resolved="yes"/>
+  </metadata-change-set>
+</changelog>
