@@ -64,3 +64,44 @@ It is an award winning email backup tool designated for Outlook Express.
 
 
 
+Wipe Expert
+---------------------
+
+It is a privacy software & internet eraser tool that helps remove all traces of your activity.
+
+### Woocommerce
+
+> Version: 3.0
+> 
+> Release date: December 25,2010
+>
+> Trial period: 15 days
+>
+> Price: $19.95
+>
+> Thumbnail: th1-7-Box_06_Wiper.png
+>
+>> **WIPE EXPERT** is an award winning privacy software & internet eraser tool that helps remove all traces of online and offline activity. Also with the help of our product you can free space from your hard drive by removing the unnecessary files.
+
+
+Bodrag Utilities 2009
+---------------------
+
+Optimize your computer and fix system errors.
+
+### Woocommerce
+
+> Version: 1.10
+> 
+> Release date: November 30,2010
+>
+> Trial period: 30 days
+>
+> Price: $29.95
+>
+> Thumbnail: th2-9-Box_01_BU.png
+>
+>> **Bodrag Utilities** is an award winning application suite with excellent tools to optimize your PC. It cleans your computer of invalid registry entries, junk files and internet traces.
+>> It enhances system speed by disabling unneeded features, compacting and defragmenting registry.
+
+
