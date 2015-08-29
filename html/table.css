@@ -1,0 +1,20 @@
+
+#content_interior #column2 p.title {color:#b7b7b7; font-size:35px; font-family:Arial; font-weight:bold;}
+#content_interior #column2 .hr {height:3px; width:730px; background:url(../images/hr.jpg) no-repeat; padding-bottom:23px;}
+#content_interior #column2 .hr1 {height:3px; width:600px; background:url(../images/hr.jpg) no-repeat; margin-bottom:26px; margin-top:26px;}
+
+#content_interior #column2 div.image {width:135px;float:left;}
+#content_interior #column2 .details {width:591px; float:left; margin-bottom:20px; line-height:13px;}
+#content_interior #column2 .details h2, #content_interior #column2  .details h2 a, #content_interior #column2 #product_description h1 {color:#cb0303; font-size:25px; font-weight:bold; line-height:25px;}
+
+#product_description a.download_free_trial {position:relative; color:#cb0303; font-size:20px; font-weight:bold; font-family:Arial;float:left; display:block;}
+#product_description a.download_free_trial:hover {text-decoration:none;}
+#product_description a.download_free_trial b {float:left;}
+#product_description a.download_free_trial span {float:left; background:url(../images/buttons/butt_middle.png) repeat-x; line-height:32px; color:#005177; font-size:20px; font-weight:bold; font-family:Arial;}
+
+#product_description a.buy_now {position:relative; background:url(../images/buttons/butt_middle.png) repeat-x; line-height:32px; color:#cb0303; font-size:20px; font-weight:bold; font-family:Arial;}
+#product_description a.buy_now:hover {text-decoration:none;}
+#product_description a.buy_now b {float:left;}
+#product_description a.buy_now span {float:left; background:url(../images/buttons/butt_middle.png) repeat-x; line-height:32px; color:#cb0303; font-size:20px; font-weight:bold; font-family:Arial;}
+
+#content_interior #column2 .details span.ext_pdf, #content_interior #column2  .details span.languages {color:#2e2e2e; font-size:12px; font-weight:normal; display:block; float:left; padding-top:3px;}
