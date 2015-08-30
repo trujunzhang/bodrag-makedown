@@ -172,7 +172,7 @@ Many applications launch automatically when Windows start without asking for you
 
 > Startup Security - Monitors all applications which start with Windows
 > 
-> http://localhost/wordpress/wp-content/uploads/2015/08/diskwipe.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/startupsecurity.jpg
 >
 > 127/150
 >
@@ -299,7 +299,7 @@ During the use of your computer you will install some applications. If you don't
 
 > Uninstaller - Manages your installed applications
 > 
-> http://localhost/wordpress/wp-content/uploads/2015/08/servicemanager.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/uninstller.jpg
 >
 > 173/150
 >
