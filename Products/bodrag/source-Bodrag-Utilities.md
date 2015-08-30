@@ -9,7 +9,7 @@ It is structured on six categories: overview, optimization, clean, protection, f
 
 > Bodrag Utilities main interface
 > 
-> th1-23-Bodrag_Utilities_1.png
+> http://bodrag.com/uploads/Image/bu/bodragutilities.jpg
 >
 > 200/150
 >
@@ -26,7 +26,7 @@ It can make automated and manual scans of your system.
 
 > One Click Optimization - Optimize Windows with a single mouse click
 > 
-> th1-24-One_Click_Optimization_1.png
+> http://bodrag.com/uploads/Image/bu/oneclickoptimization.jpg
 >
 > 156/150
 >
@@ -43,7 +43,7 @@ Then use System Optimizer from Bodrag Utilities With a few clicks you can optimi
 
 > System Optimizer - Optimizes your computer for better speed
 > 
-> th1-25-System_Optimizer_1.png
+> http://bodrag.com/uploads/Image/bu/systemoptimizer.jpg
 >
 > 204/150
 >
@@ -60,7 +60,7 @@ With the Memory Optimizer you can remove components no longer required from the 
 
 > Memory Optimizer - Optimizes your RAM utilization
 > 
-> th1-26-Memory_Optimizer_1.png
+> http://bodrag.com/uploads/Image/bu/memoryoptimizer.jpg
 >
 > 133/150
 >
@@ -75,7 +75,7 @@ With Internet Optimizer you can optimize your Internet connection and get a bett
 
 > Internet Optimizer - Optimizes your Internet connection
 > 
-> th1-26-Memory_Optimizer_1.png
+> http://bodrag.com/uploads/Image/bu/internetoptimizer.jpg
 >
 > 204/150
 >
