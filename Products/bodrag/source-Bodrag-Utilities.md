@@ -114,3 +114,20 @@ Of course, you can specify which files you wish to search for and what really sh
 >
 > 204/150
 >
+
+
+Registry Cleaner - Removes invalid registry entries
+---------------------
+
+Use the Registry Cleaner to remove unnecessary and invalid registry entries. You can check for the following registry entries: Help files, Fonts, Shortcuts, Startup, Start Menu, Shared files, Application Paths, File Associations, History records, Sound Files, COM & ActiveX entries.
+
+
+### image
+
+> Registry Cleaner - Removes invalid registry entries
+> 
+> http://bodrag.com/uploads/Image/bu/registrycleaner.jpg
+>
+> 202/150
+>
+
