@@ -87,7 +87,7 @@ Registry Defragmenter - Optimizes your registry by defragmenting
 ---------------------
 
 Frequently starting and stopping Windows , as well as installing and unistalling applications , in time fragments Windows registry and possibly contains errors . Due to this fragmentation the reading and writing process of the registry takes longer tan a defragamentet registry file . This bring a reduction of perfomance to yours system .
-With the Registry Defragementer you have the posibility to to defragment the registry, therefore, the fragmentation of the registry is reduced, and unused memory is recovered. The performance of your system thereby increasing again.
+With the <strong>Registry Defragementer</strong> you have the posibility to to defragment the registry, therefore, the fragmentation of the registry is reduced, and unused memory is recovered. The performance of your system thereby increasing again.
 
 
 
@@ -104,7 +104,7 @@ With the Registry Defragementer you have the posibility to to defragment the reg
 Disk Cleaner - Removes unnecessary files and creates more space
 ---------------------
 
-Use the Disk Cleaner to remove unnecessary files from the hard disk and get more free space. With Disk Cleaner you can remove following file types: temporary Internet files, cookies, temporary files, temporary help files, image cache files, log files, system backup files and more.
+Use the <strong>Disk Cleaner</strong> to remove unnecessary files from the hard disk and get more free space. With Disk Cleaner you can remove following file types: temporary Internet files, cookies, temporary files, temporary help files, image cache files, log files, system backup files and more.
 Of course, you can specify which files you wish to search for and what really should be deleted.
 
 
@@ -121,7 +121,7 @@ Of course, you can specify which files you wish to search for and what really sh
 Registry Cleaner - Removes invalid registry entries
 ---------------------
 
-Use the Registry Cleaner to remove unnecessary and invalid registry entries. You can check for the following registry entries: Help files, Fonts, Shortcuts, Startup, Start Menu, Shared files, Application Paths, File Associations, History records, Sound Files, COM & ActiveX entries.
+Use the <strong>Registry Cleaner</strong> to remove unnecessary and invalid registry entries. You can check for the following registry entries: Help files, Fonts, Shortcuts, Startup, Start Menu, Shared files, Application Paths, File Associations, History records, Sound Files, COM & ActiveX entries.
 
 
 ### image-8
@@ -182,7 +182,7 @@ Computer Security - Protects your online privacy
 ---------------------
 
 How important is your privacy? While surfing the Internet, for example, the content of web pages is stored in your browsers cache . Cookies, browsing history, passwords are also stored on your computer for later use . Windows stores links to to recent used documents and applications, temporary files that may contain confidential information.
-Would you like to erease all these traces? The Computer Security tool from Bodrag Utilities is the right choice for you.
+Would you like to erease all these traces? The <strong>Computer Security</strong> tool from Bodrag Utilities is the right choice for you.
 
 
 ### image-12
@@ -215,7 +215,7 @@ Spyware Protector - Protect your computer against mallware products installation
 ---------------------
 
 Spyware, adware, browser hijackers, and dialers are some of the most annoying and dangerous threats on the Internet today. By simply browsing a web page, you could find your computer infected by one of these unwanted fiends! Spyware Protector can help you to keep your system secure. But, unlike other programs, Spyware Protector does not scan your system for spyware. It will secure your system in order to protect it to be infected when you visit webpages.
-Spyware Protector can help you keep your system secure. 
+<strong>Spyware Protector</strong> can help you keep your system secure. 
 
 
 ### image-14
