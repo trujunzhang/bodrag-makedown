@@ -5,7 +5,7 @@ Bodrag Utilities main interface
 The Main Interface is the control center of all the suites applications.
 It is structured on six categories: overview, optimization, clean, protection, fix & repair and other tools.
 
-### image
+### image-1
 
 > Bodrag Utilities main interface
 > 
@@ -22,7 +22,7 @@ One Click Optimization is a tool that allows you to quickly and easily clean up 
 It can make automated and manual scans of your system.
 
 
-### image
+### image-2
 
 > One Click Optimization - Optimize Windows with a single mouse click
 > 
@@ -39,7 +39,7 @@ Then use System Optimizer from Bodrag Utilities With a few clicks you can optimi
 
 
 
-### image
+### image-3
 
 > System Optimizer - Optimizes your computer for better speed
 > 
@@ -56,7 +56,7 @@ With the Memory Optimizer you can remove components no longer required from the 
 
 
 
-### image
+### image-4
 
 > Memory Optimizer - Optimizes your RAM utilization
 > 
@@ -71,7 +71,7 @@ Internet Optimizer - Optimizes your Internet connection
 With Internet Optimizer you can optimize your Internet connection and get a better data transfer speed.
 
 
-### image
+### image-5
 
 > Internet Optimizer - Optimizes your Internet connection
 > 
@@ -89,7 +89,7 @@ With the Registry Defragementer you have the posibility to to defragment the reg
 
 
 
-### image
+### image-6
 
 > Registry Defragmenter - Optimizes your registry by defragmenting
 > 
@@ -106,7 +106,7 @@ Use the Disk Cleaner to remove unnecessary files from the hard disk and get more
 Of course, you can specify which files you wish to search for and what really should be deleted.
 
 
-### image
+### image-7
 
 > Disk Cleaner - Removes unnecessary files and creates more space
 > 
@@ -122,7 +122,7 @@ Registry Cleaner - Removes invalid registry entries
 Use the Registry Cleaner to remove unnecessary and invalid registry entries. You can check for the following registry entries: Help files, Fonts, Shortcuts, Startup, Start Menu, Shared files, Application Paths, File Associations, History records, Sound Files, COM & ActiveX entries.
 
 
-### image
+### image-8
 
 > Registry Cleaner - Removes invalid registry entries
 > 
@@ -137,7 +137,7 @@ Shredder - Secure erase files and folders
 Do you have files that contain important information and need to be deleted? Then you should not simply delete them by using the Recycle Bin! Because this data can be restored by other users of your computer. You cand delete files and foders, safe and unrecoverable, using the Shredder application and nobody can recover your data.
 
 
-### image
+### image-9
 
 > Shredder - Secure erase files and folders
 > 
@@ -151,7 +151,7 @@ Disk Wipe - Secure erase free space on your hard disk
 
 Did you simply deleted files with important information? Anyone can see them by using file recovery software.To make sure that your confidential information are gone forever you should secure erase your hard disk free space, using Disk Wipe application and nobody can recover them using data recovery software.
 
-### image
+### image-10
 
 > Disk Wipe - Secure erase free space on your hard disk
 > 
@@ -166,7 +166,7 @@ Startup Security - Monitors all applications which start with Windows
 
 Many applications launch automatically when Windows start without asking for your permission. With Startup Security you can monitor all startup applications and you can choose which are allowed and which should be blocked.
 
-### image
+### image-11
 
 > Startup Security - Monitors all applications which start with Windows
 > 
@@ -183,7 +183,7 @@ How important is your privacy? While surfing the Internet, for example, the cont
 Would you like to erease all these traces? The Computer Security tool from Bodrag Utilities is the right choice for you.
 
 
-### image
+### image-12
 
 > Computer Security - Protects your online privacy
 > 
@@ -199,7 +199,7 @@ EXE Protector - Password protection for your executable files
 If your computer is used by several people and there are applications that you want to restrict to be used by foreign users, then EXE Protector will help you to do so. With EXE Protector you can protect any application with a password, and that application can run only when entering the correct password.
 
 
-### image
+### image-13
 
 > EXE Protector - Password protection for your executable files
 > 
@@ -216,7 +216,7 @@ Spyware, adware, browser hijackers, and dialers are some of the most annoying an
 Spyware Protector can help you keep your system secure. 
 
 
-### image
+### image-14
 
 > Spyware Protector - Protect your computer against mallware products installation
 > 
@@ -232,7 +232,7 @@ Registry Backup - Created backup of Registry files for the Recovery
 The registry file is an important component of your system. If it is destroyed, your operating system will run with errors or in the worst case, it will no longer run. To prevent this, we recommend to backup your registry records. Basically, you should do it prior to any registry change. With Registry Backup you can create registry backups and restore them.
 
 
-### image
+### image-15
 
 > Registry Backup - Created backup of Registry files for the Recovery
 > 
@@ -247,7 +247,7 @@ Process Manager - Manages your current running applications
 Do you know exactly what applications are currently running on your system? With Process Manager from Bodrag Utilities you get now all needed details. It displays all running applications, all processes and their memory requirements and computer performance graphics.
 
 
-### image
+### image-16
 
 > Process Manager - Manages your current running applications
 > 
@@ -263,7 +263,7 @@ Many applications launch automatically when Windows start. Some of them are requ
 With the Startup Manager from Bodrag Utilities you can now manage applications that launch on Windows startup.
 
 
-### image
+### image-17
 
 > Startup Manager - Manages the list of applications which start with Windows
 > 
