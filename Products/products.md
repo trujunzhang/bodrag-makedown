@@ -69,7 +69,7 @@ It is an award winning email backup tool designated for Outlook Express.
 
 
 
-Wipe Expert
+Wipe Expert 3
 ---------------------
 
 It is a privacy software & internet eraser tool that helps remove all traces of your activity.
