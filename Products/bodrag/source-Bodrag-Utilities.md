@@ -317,3 +317,18 @@ Do you know exactly what hardware is installed in your system, the version numbe
 > 208/150
 >
 
+Windows Styler - Customize your Windows interface
+---------------------
+
+Do you like default icons of Windows? Would you prefer different icons for your files & folders? Then you can use Windows Styler from Bodrag Utilities to make these changes.
+
+### image-21
+
+> Windows Styler - Customize your Windows interface
+> 
+> http://bodrag.com/uploads/Image/bu/windowsstyler.jpg
+>
+> 213/150
+>
+
+
