@@ -4,7 +4,7 @@ http://localhost/wordpress/wp-content/uploads/2015/08/
 Bodrag Utilities main interface
 ---------------------
 
-The Main Interface is the control center of all the suites applications.
+The <strong>Main Interface</strong> is the control center of all the suites applications.
 It is structured on six categories: overview, optimization, clean, protection, fix & repair and other tools.
 
 ### image-1
