@@ -174,3 +174,20 @@ Many applications launch automatically when Windows start without asking for you
 >
 > 127/150
 >
+
+
+Computer Security - Protects your online privacy
+---------------------
+
+How important is your privacy? While surfing the Internet, for example, the content of web pages is stored in your browsers cache . Cookies, browsing history, passwords are also stored on your computer for later use . Windows stores links to to recent used documents and applications, temporary files that may contain confidential information.
+Would you like to erease all these traces? The Computer Security tool from Bodrag Utilities is the right choice for you.
+
+
+### image
+
+> Computer Security - Protects your online privacy
+> 
+> http://bodrag.com/uploads/Image/bu/computersecurity.jpg
+>
+> 127/150
+>
