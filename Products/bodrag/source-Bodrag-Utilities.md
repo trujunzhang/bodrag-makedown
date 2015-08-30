@@ -1,4 +1,6 @@
 
+http://localhost/wordpress/wp-content/uploads/2015/08/
+
 Bodrag Utilities main interface
 ---------------------
 
@@ -9,7 +11,7 @@ It is structured on six categories: overview, optimization, clean, protection, f
 
 > Bodrag Utilities main interface
 > 
-> http://bodrag.com/uploads/Image/bu/bodragutilities.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/bodragutilities.jpg
 >
 > 200/150
 >
@@ -26,7 +28,7 @@ It can make automated and manual scans of your system.
 
 > One Click Optimization - Optimize Windows with a single mouse click
 > 
-> http://bodrag.com/uploads/Image/bu/oneclickoptimization.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/oneclickoptimization.jpg
 >
 > 156/150
 >
@@ -43,7 +45,7 @@ Then use System Optimizer from Bodrag Utilities With a few clicks you can optimi
 
 > System Optimizer - Optimizes your computer for better speed
 > 
-> http://bodrag.com/uploads/Image/bu/systemoptimizer.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/systemoptimizer.jpg
 >
 > 204/150
 >
@@ -60,7 +62,7 @@ With the Memory Optimizer you can remove components no longer required from the 
 
 > Memory Optimizer - Optimizes your RAM utilization
 > 
-> http://bodrag.com/uploads/Image/bu/memoryoptimizer.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/memoryoptimizer.jpg
 >
 > 133/150
 >
@@ -75,7 +77,7 @@ With Internet Optimizer you can optimize your Internet connection and get a bett
 
 > Internet Optimizer - Optimizes your Internet connection
 > 
-> http://bodrag.com/uploads/Image/bu/internetoptimizer.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/internetoptimizer.jpg
 >
 > 204/150
 >
@@ -93,7 +95,7 @@ With the Registry Defragementer you have the posibility to to defragment the reg
 
 > Registry Defragmenter - Optimizes your registry by defragmenting
 > 
-> http://bodrag.com/uploads/Image/bu/registrydefragmenter.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/registrydefragmenter.jpg
 >
 > 204/150
 >
@@ -110,7 +112,7 @@ Of course, you can specify which files you wish to search for and what really sh
 
 > Disk Cleaner - Removes unnecessary files and creates more space
 > 
-> http://bodrag.com/uploads/Image/bu/diskcleaner.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/diskcleaner.jpg
 >
 > 204/150
 >
@@ -126,7 +128,7 @@ Use the Registry Cleaner to remove unnecessary and invalid registry entries. You
 
 > Registry Cleaner - Removes invalid registry entries
 > 
-> http://bodrag.com/uploads/Image/bu/registrycleaner.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/registrycleaner.jpg
 >
 > 202/150
 >
@@ -141,7 +143,7 @@ Do you have files that contain important information and need to be deleted? The
 
 > Shredder - Secure erase files and folders
 > 
-> http://bodrag.com/uploads/Image/bu/shredder.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/shredder.jpg
 >
 > 204/150
 >
@@ -155,7 +157,7 @@ Did you simply deleted files with important information? Anyone can see them by 
 
 > Disk Wipe - Secure erase free space on your hard disk
 > 
-> http://bodrag.com/uploads/Image/bu/diskwipe.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/diskwipe.jpg
 >
 > 204/150
 >
@@ -170,7 +172,7 @@ Many applications launch automatically when Windows start without asking for you
 
 > Startup Security - Monitors all applications which start with Windows
 > 
-> http://bodrag.com/uploads/Image/bu/diskwipe.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/diskwipe.jpg
 >
 > 127/150
 >
@@ -187,7 +189,7 @@ Would you like to erease all these traces? The Computer Security tool from Bodra
 
 > Computer Security - Protects your online privacy
 > 
-> http://bodrag.com/uploads/Image/bu/computersecurity.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/computersecurity.jpg
 >
 > 204/150
 >
@@ -203,7 +205,7 @@ If your computer is used by several people and there are applications that you w
 
 > EXE Protector - Password protection for your executable files
 > 
-> http://bodrag.com/uploads/Image/bu/exeprotector.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/exeprotector.jpg
 >
 > 204/150
 >
@@ -220,7 +222,7 @@ Spyware Protector can help you keep your system secure.
 
 > Spyware Protector - Protect your computer against mallware products installation
 > 
-> http://bodrag.com/uploads/Image/bu/spywareprotector.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/spywareprotector.jpg
 >
 > 212/150
 >
@@ -236,7 +238,7 @@ The registry file is an important component of your system. If it is destroyed, 
 
 > Registry Backup - Created backup of Registry files for the Recovery
 > 
-> http://bodrag.com/uploads/Image/bu/registrybackup.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/registrybackup.jpg
 >
 > 159/150
 >
@@ -251,7 +253,7 @@ Do you know exactly what applications are currently running on your system? With
 
 > Process Manager - Manages your current running applications
 > 
-> http://bodrag.com/uploads/Image/bu/processmanager.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/processmanager.jpg
 >
 > 133/150
 >
@@ -267,7 +269,7 @@ With the Startup Manager from Bodrag Utilities you can now manage applications t
 
 > Startup Manager - Manages the list of applications which start with Windows
 > 
-> http://bodrag.com/uploads/Image/bu/startupmanager.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/startupmanager.jpg
 >
 > 197/150
 >
@@ -282,7 +284,7 @@ You have installed applications that run as service and you want to stop it? Or 
 
 > Service Manager - Manages the list of installed Windows services
 > 
-> http://bodrag.com/uploads/Image/bu/servicemanager.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/servicemanager.jpg
 >
 > 160/150
 >
@@ -297,7 +299,7 @@ During the use of your computer you will install some applications. If you don't
 
 > Uninstaller - Manages your installed applications
 > 
-> http://bodrag.com/uploads/Image/bu/servicemanager.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/servicemanager.jpg
 >
 > 173/150
 >
@@ -312,7 +314,7 @@ Do you know exactly what hardware is installed in your system, the version numbe
 
 > System Information - Displays extended information about your system and hardware
 > 
-> http://bodrag.com/uploads/Image/bu/systeminformation.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/systeminformation.jpg
 >
 > 208/150
 >
@@ -326,7 +328,7 @@ Do you like default icons of Windows? Would you prefer different icons for your 
 
 > Windows Styler - Customize your Windows interface
 > 
-> http://bodrag.com/uploads/Image/bu/windowsstyler.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/windowsstyler.jpg
 >
 > 213/150
 >
@@ -340,7 +342,7 @@ You might have lots of beautiful pictures on your computer that can make your de
 
 > Wallpaper Changer - Changes your desktop wallpaper automatically
 > 
-> http://bodrag.com/uploads/Image/bu/wallpaperchanger.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/wallpaperchanger.jpg
 >
 > 147/150
 >
@@ -359,7 +361,7 @@ Instead of shutting down the computer, you can also choose to restart, logo off,
 
 > Auto Shutdown - Schedule when your computer must shut down
 > 
-> http://bodrag.com/uploads/Image/bu/autoshutdown.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/autoshutdown.jpg
 >
 > 171/150
 >
@@ -375,7 +377,7 @@ If you wan to customize your system settings, Tweaker is the perfect choice.In t
 
 > Tweaker - Customize your Windows settings
 > 
-> http://bodrag.com/uploads/Image/bu/tweaker.jpg
+> http://localhost/wordpress/wp-content/uploads/2015/08/tweaker.jpg
 >
 > 194/150
 >
