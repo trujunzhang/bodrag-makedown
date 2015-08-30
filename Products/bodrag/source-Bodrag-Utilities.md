@@ -364,3 +364,19 @@ Instead of shutting down the computer, you can also choose to restart, logo off,
 > 171/150
 >
 
+
+Tweaker - Customize your Windows settings
+---------------------
+
+If you wan to customize your system settings, Tweaker is the perfect choice.In this way, you can make the operating system more effective and tailored to meet your needs.
+
+
+### image-24
+
+> Tweaker - Customize your Windows settings
+> 
+> http://bodrag.com/uploads/Image/bu/tweaker.jpg
+>
+> 194/150
+>
+
