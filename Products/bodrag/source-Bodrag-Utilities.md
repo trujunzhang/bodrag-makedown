@@ -189,5 +189,21 @@ Would you like to erease all these traces? The Computer Security tool from Bodra
 > 
 > http://bodrag.com/uploads/Image/bu/computersecurity.jpg
 >
-> 127/150
+> 204/150
+>
+
+
+EXE Protector - Password protection for your executable files
+---------------------
+
+If your computer is used by several people and there are applications that you want to restrict to be used by foreign users, then EXE Protector will help you to do so. With EXE Protector you can protect any application with a password, and that application can run only when entering the correct password.
+
+
+### image
+
+> EXE Protector - Password protection for your executable files
+> 
+> http://bodrag.com/uploads/Image/bu/exeprotector.jpg
+>
+> 204/150
 >
