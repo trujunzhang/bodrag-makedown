@@ -240,3 +240,19 @@ The registry file is an important component of your system. If it is destroyed, 
 >
 > 159/150
 >
+
+Process Manager - Manages your current running applications
+---------------------
+
+Do you know exactly what applications are currently running on your system? With Process Manager from Bodrag Utilities you get now all needed details. It displays all running applications, all processes and their memory requirements and computer performance graphics.
+
+
+### image
+
+> Process Manager - Manages your current running applications
+> 
+> http://bodrag.com/uploads/Image/bu/processmanager.jpg
+>
+> 133/150
+>
+
