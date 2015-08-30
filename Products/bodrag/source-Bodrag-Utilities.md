@@ -145,3 +145,17 @@ Do you have files that contain important information and need to be deleted? The
 >
 > 204/150
 >
+
+Disk Wipe - Secure erase free space on your hard disk
+---------------------
+
+Did you simply deleted files with important information? Anyone can see them by using file recovery software.To make sure that your confidential information are gone forever you should secure erase your hard disk free space, using Disk Wipe application and nobody can recover them using data recovery software.
+
+### image
+
+> Disk Wipe - Secure erase free space on your hard disk
+> 
+> http://bodrag.com/uploads/Image/bu/diskwipe.jpg
+>
+> 204/150
+>
