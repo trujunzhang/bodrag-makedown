@@ -224,3 +224,19 @@ Spyware Protector can help you keep your system secure.
 >
 > 212/150
 >
+
+
+Registry Backup - Created backup of Registry files for the Recovery
+---------------------
+
+The registry file is an important component of your system. If it is destroyed, your operating system will run with errors or in the worst case, it will no longer run. To prevent this, we recommend to backup your registry records. Basically, you should do it prior to any registry change. With Registry Backup you can create registry backups and restore them.
+
+
+### image
+
+> Registry Backup - Created backup of Registry files for the Recovery
+> 
+> http://bodrag.com/uploads/Image/bu/registrybackup.jpg
+>
+> 159/150
+>
