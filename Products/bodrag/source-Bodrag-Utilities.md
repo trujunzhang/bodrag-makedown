@@ -331,4 +331,17 @@ Do you like default icons of Windows? Would you prefer different icons for your 
 > 213/150
 >
 
+Wallpaper Changer - Changes your desktop wallpaper automatically
+---------------------
+
+You might have lots of beautiful pictures on your computer that can make your desktop look awesome, but you have to manually change your wallpaper. Bring life to your desktop with Wallpaper Changer from Bodrag Utilities. It changes your desktop wallpaper automatically. Of course, you select which background images should be displayed.
+
+### image-22
+
+> Wallpaper Changer - Changes your desktop wallpaper automatically
+> 
+> http://bodrag.com/uploads/Image/bu/wallpaperchanger.jpg
+>
+> 147/150
+>
 
