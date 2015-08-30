@@ -47,3 +47,21 @@ Then use System Optimizer from Bodrag Utilities With a few clicks you can optimi
 >
 > 204/150
 >
+
+Memory Optimizer - Optimizes your RAM utilization
+---------------------
+
+RAM is an essential factor in the performance of your system. The more RAM available, the better you can use your system and your applications. Due to frequent starting and stopping of various applications, during a computer session, the memory is consumed more and more, because some of the applications and components are not removed from the RAM if they are terminated. These components are left in the RAM memory, so that the same application after a new start can be loaded faster, and therefore these components do not have to be reloaded.
+With the Memory Optimizer you can remove components no longer required from the RAM memory . The optimization of RAm can be made automatically or manually as needed.
+
+
+
+### image
+
+> Memory Optimizer - Optimizes your RAM utilization
+> 
+> th1-26-Memory_Optimizer_1.png
+>
+> 133/150
+>
+
