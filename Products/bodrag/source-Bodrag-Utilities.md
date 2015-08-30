@@ -131,3 +131,17 @@ Use the Registry Cleaner to remove unnecessary and invalid registry entries. You
 > 202/150
 >
 
+Shredder - Secure erase files and folders
+---------------------
+
+Do you have files that contain important information and need to be deleted? Then you should not simply delete them by using the Recycle Bin! Because this data can be restored by other users of your computer. You cand delete files and foders, safe and unrecoverable, using the Shredder application and nobody can recover your data.
+
+
+### image
+
+> Shredder - Secure erase files and folders
+> 
+> http://bodrag.com/uploads/Image/bu/shredder.jpg
+>
+> 204/150
+>
