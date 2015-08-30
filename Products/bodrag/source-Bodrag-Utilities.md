@@ -345,3 +345,22 @@ You might have lots of beautiful pictures on your computer that can make your de
 > 147/150
 >
 
+
+
+
+Auto Shutdown - Schedule when your computer must shut down
+---------------------
+
+This application lets your computer automatically shutdown. This is especially useful if you run an application with a task, that will take a long time to run, and you don't have the time to stand and wait until you can shut down the computer.
+Instead of shutting down the computer, you can also choose to restart, logo off, go in standby mode or hibernate.
+
+
+### image-23
+
+> Auto Shutdown - Schedule when your computer must shut down
+> 
+> http://bodrag.com/uploads/Image/bu/autoshutdown.jpg
+>
+> 171/150
+>
+
