@@ -286,3 +286,20 @@ You have installed applications that run as service and you want to stop it? Or 
 >
 > 160/150
 >
+
+
+Uninstaller - Manages your installed applications
+---------------------
+
+During the use of your computer you will install some applications. If you don't need an application anymore, you can uninstall it and clean it from your system. Also, you can edit uninstall entries for your applications and see which applications have invalid uninstall entries.
+
+### image-19
+
+> Uninstaller - Manages your installed applications
+> 
+> http://bodrag.com/uploads/Image/bu/servicemanager.jpg
+>
+> 173/150
+>
+
+
