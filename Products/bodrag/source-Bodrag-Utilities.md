@@ -97,3 +97,20 @@ With the Registry Defragementer you have the posibility to to defragment the reg
 >
 > 204/150
 >
+
+
+Disk Cleaner - Removes unnecessary files and creates more space
+---------------------
+
+Use the Disk Cleaner to remove unnecessary files from the hard disk and get more free space. With Disk Cleaner you can remove following file types: temporary Internet files, cookies, temporary files, temporary help files, image cache files, log files, system backup files and more.
+Of course, you can specify which files you wish to search for and what really should be deleted.
+
+
+### image
+
+> Disk Cleaner - Removes unnecessary files and creates more space
+> 
+> http://bodrag.com/uploads/Image/bu/diskcleaner.jpg
+>
+> 204/150
+>
