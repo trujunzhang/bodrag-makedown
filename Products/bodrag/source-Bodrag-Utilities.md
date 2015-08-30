@@ -159,3 +159,18 @@ Did you simply deleted files with important information? Anyone can see them by 
 >
 > 204/150
 >
+
+
+Startup Security - Monitors all applications which start with Windows
+---------------------
+
+Many applications launch automatically when Windows start without asking for your permission. With Startup Security you can monitor all startup applications and you can choose which are allowed and which should be blocked.
+
+### image
+
+> Startup Security - Monitors all applications which start with Windows
+> 
+> http://bodrag.com/uploads/Image/bu/diskwipe.jpg
+>
+> 127/150
+>
