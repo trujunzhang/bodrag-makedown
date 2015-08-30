@@ -271,3 +271,18 @@ With the Startup Manager from Bodrag Utilities you can now manage applications t
 >
 > 197/150
 >
+
+
+Service Manager - Manages the list of installed Windows services
+---------------------
+
+You have installed applications that run as service and you want to stop it? Or you want to change the way it start? You can use Service Manager to make all these and also to get details about each installed service on your system.
+
+### image-18
+
+> Service Manager - Manages the list of installed Windows services
+> 
+> http://bodrag.com/uploads/Image/bu/servicemanager.jpg
+>
+> 160/150
+>
