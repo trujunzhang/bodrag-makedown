@@ -303,3 +303,17 @@ During the use of your computer you will install some applications. If you don't
 >
 
 
+System Information - Displays extended information about your system and hardware
+---------------------
+
+Do you know exactly what hardware is installed in your system, the version number of your operating system, or what Internet connections are installed? With System Information from Bodrag Utilities ther is no longer a secret for you! You can get detailed information about your entire system.
+
+### image-20
+
+> System Information - Displays extended information about your system and hardware
+> 
+> http://bodrag.com/uploads/Image/bu/systeminformation.jpg
+>
+> 208/150
+>
+
