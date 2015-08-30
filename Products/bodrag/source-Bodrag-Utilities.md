@@ -207,3 +207,20 @@ If your computer is used by several people and there are applications that you w
 >
 > 204/150
 >
+
+
+Spyware Protector - Protect your computer against mallware products installation
+---------------------
+
+Spyware, adware, browser hijackers, and dialers are some of the most annoying and dangerous threats on the Internet today. By simply browsing a web page, you could find your computer infected by one of these unwanted fiends! Spyware Protector can help you to keep your system secure. But, unlike other programs, Spyware Protector does not scan your system for spyware. It will secure your system in order to protect it to be infected when you visit webpages.
+Spyware Protector can help you keep your system secure. 
+
+
+### image
+
+> Spyware Protector - Protect your computer against mallware products installation
+> 
+> http://bodrag.com/uploads/Image/bu/spywareprotector.jpg
+>
+> 212/150
+>
