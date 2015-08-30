@@ -30,3 +30,20 @@ It can make automated and manual scans of your system.
 >
 > 156/150
 >
+
+System Optimizer - Optimizes your computer for better speed
+---------------------
+
+Would you like to optimize your system for application needs?
+Then use System Optimizer from Bodrag Utilities With a few clicks you can optimize your system and increase performance.
+
+
+
+### image
+
+> System Optimizer - Optimizes your computer for better speed
+> 
+> th1-25-System_Optimizer_1.png
+>
+> 204/150
+>
