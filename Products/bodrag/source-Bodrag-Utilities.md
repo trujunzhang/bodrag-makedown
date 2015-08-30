@@ -256,3 +256,18 @@ Do you know exactly what applications are currently running on your system? With
 > 133/150
 >
 
+Startup Manager - Manages the list of applications which start with Windows
+---------------------
+
+Many applications launch automatically when Windows start. Some of them are required, for example to provide you with important functions such as your virus scanner. Others are useless or even dangerous applications that also start together with your system. Any new application that is added to Windows startup will make your system to start more slowly and have less free memory.
+With the Startup Manager from Bodrag Utilities you can now manage applications that launch on Windows startup.
+
+
+### image
+
+> Startup Manager - Manages the list of applications which start with Windows
+> 
+> http://bodrag.com/uploads/Image/bu/startupmanager.jpg
+>
+> 197/150
+>
