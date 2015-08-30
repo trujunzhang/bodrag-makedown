@@ -20,7 +20,7 @@ It is structured on six categories: overview, optimization, clean, protection, f
 One Click Optimization - Optimize Windows with a single mouse click
 ---------------------
 
-One Click Optimization is a tool that allows you to quickly and easily clean up your registry and hard drive.
+<strong>One Click Optimization</strong> is a tool that allows you to quickly and easily clean up your registry and hard drive.
 It can make automated and manual scans of your system.
 
 
@@ -37,7 +37,7 @@ System Optimizer - Optimizes your computer for better speed
 ---------------------
 
 Would you like to optimize your system for application needs?
-Then use System Optimizer from Bodrag Utilities With a few clicks you can optimize your system and increase performance.
+Then use <strong>System Optimizer</strong> from Bodrag Utilities With a few clicks you can optimize your system and increase performance.
 
 
 
@@ -54,7 +54,7 @@ Memory Optimizer - Optimizes your RAM utilization
 ---------------------
 
 RAM is an essential factor in the performance of your system. The more RAM available, the better you can use your system and your applications. Due to frequent starting and stopping of various applications, during a computer session, the memory is consumed more and more, because some of the applications and components are not removed from the RAM if they are terminated. These components are left in the RAM memory, so that the same application after a new start can be loaded faster, and therefore these components do not have to be reloaded.
-With the Memory Optimizer you can remove components no longer required from the RAM memory . The optimization of RAm can be made automatically or manually as needed.
+With the <strong>Memory Optimizer</strong> you can remove components no longer required from the RAM memory . The optimization of RAm can be made automatically or manually as needed.
 
 
 
@@ -70,7 +70,7 @@ With the Memory Optimizer you can remove components no longer required from the 
 Internet Optimizer - Optimizes your Internet connection
 ---------------------
 
-With Internet Optimizer you can optimize your Internet connection and get a better data transfer speed.
+With <strong>Internet Optimizer</strong> you can optimize your Internet connection and get a better data transfer speed.
 
 
 ### image-5
