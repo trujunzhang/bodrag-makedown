@@ -79,3 +79,21 @@ With Internet Optimizer you can optimize your Internet connection and get a bett
 >
 > 204/150
 >
+
+
+Registry Defragmenter - Optimizes your registry by defragmenting
+---------------------
+
+Frequently starting and stopping Windows , as well as installing and unistalling applications , in time fragments Windows registry and possibly contains errors . Due to this fragmentation the reading and writing process of the registry takes longer tan a defragamentet registry file . This bring a reduction of perfomance to yours system .
+With the Registry Defragementer you have the posibility to to defragment the registry, therefore, the fragmentation of the registry is reduced, and unused memory is recovered. The performance of your system thereby increasing again.
+
+
+
+### image
+
+> Registry Defragmenter - Optimizes your registry by defragmenting
+> 
+> http://bodrag.com/uploads/Image/bu/registrydefragmenter.jpg
+>
+> 204/150
+>
