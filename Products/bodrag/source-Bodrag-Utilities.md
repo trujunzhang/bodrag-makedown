@@ -65,3 +65,17 @@ With the Memory Optimizer you can remove components no longer required from the 
 > 133/150
 >
 
+Internet Optimizer - Optimizes your Internet connection
+---------------------
+
+With Internet Optimizer you can optimize your Internet connection and get a better data transfer speed.
+
+
+### image
+
+> Internet Optimizer - Optimizes your Internet connection
+> 
+> th1-26-Memory_Optimizer_1.png
+>
+> 204/150
+>
