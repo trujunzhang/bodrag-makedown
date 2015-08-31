@@ -45,3 +45,17 @@ download-products
 >
 > http://localhost/wordpress/downloads/outlook-express-backup-expert
 
+store-products
+---------------------
+
+> http://localhost/wordpress/product/wipe-expert-3
+>
+> http://localhost/wordpress/product/pdf-converter
+>
+> http://localhost/wordpress/product/bodrag-utilities
+>
+> http://localhost/wordpress/product/ram-booster-expert
+>
+> http://localhost/wordpress/product/outlook-express-backup-expert
+>
+
