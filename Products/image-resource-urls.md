@@ -23,3 +23,5 @@ download-icons
 http://localhost/wordpress/wp-content/uploads/2015/08/buy_en.jpg
 http://localhost/wordpress/wp-content/uploads/2015/08/details_en.jpg
 http://localhost/wordpress/wp-content/uploads/2015/08/free_downloads_en.jpg
+
+http://localhost/wordpress/wp-content/uploads/2015/08/split_en.jpg
