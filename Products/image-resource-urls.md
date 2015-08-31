@@ -35,4 +35,13 @@ download-icons
 download-products
 ---------------------
 
-> http://localhost/wordpress/downloads/wipe-expert-3/
+> http://localhost/wordpress/downloads/wipe-expert-3
+>
+> http://localhost/wordpress/downloads/bodrag-pdf-converter
+> 
+> http://localhost/wordpress/downloads/bodrag-utilities
+>
+> http://localhost/wordpress/downloads/ram-booster-expert
+>
+> http://localhost/wordpress/downloads/outlook-express-backup-expert
+
