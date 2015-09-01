@@ -59,3 +59,12 @@ store-products
 > http://localhost/wordpress/product/outlook-express-backup-expert
 >
 
+Supports
+---------------------
+
+>
+> http://localhost/wordpress/support/tutorials
+>
+> http://localhost/wordpress/support/beta-testing
+>
+> http://localhost/wordpress/support/faqs
