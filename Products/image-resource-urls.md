@@ -73,3 +73,11 @@ Supports
 > http://localhost/wordpress/support/beta-testing
 >
 > http://localhost/wordpress/support/faqs
+
+download files
+----------------------
+
+> wipe-expert-3
+>> http://localhost/wordpress/wp-content/uploads/files/wesetup.exe
+>
+>> http://localhost/wordpress/wp-content/uploads/files/wesetup.zip
