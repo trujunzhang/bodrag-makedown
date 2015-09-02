@@ -30,7 +30,9 @@ Plugins
 >
 > MotoPress Content Editor
 >> MotoPress content builder makes the process of post editing easy and fast. Thanks to drag and drop functionality it's possible to manage your article, add different content elements, replace, edit them and see the ready to be published result right in the editor area.
-
+>
+> language-icons-flags-switcher
+>> This plugin helps you to add flag icons with links on the site.
 
 MotoPress Content Editor Information
 ---------------------
