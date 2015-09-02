@@ -35,6 +35,8 @@ download-icons
 > http://localhost/wordpress/wp-content/uploads/2015/08/ext_exe.jpg
 >
 > http://localhost/wordpress/wp-content/uploads/2015/08/ext_zip.jpg
+>
+> http://localhost/wordpress/wp-content/uploads/2015/08/ext_pdf.jpg
 
 
 download-products
