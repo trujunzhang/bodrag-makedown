@@ -83,3 +83,8 @@ download files
 >> http://localhost/wordpress/wp-content/uploads/files/wesetup.exe
 >
 >> http://localhost/wordpress/wp-content/uploads/files/wesetup.zip
+
+flag icons
+----------------------
+
+> http://localhost/wordpress/wp-content/plugins/language-icons-flags-switcher/img/french.png
