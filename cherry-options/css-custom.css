@@ -17,7 +17,8 @@ body #motopress-main.main-holder .content-holder ul.products li.product >a img, 
     -o-transition:all ease-in-out .2s;
     transition:all ease-in-out .2s;
 }
-div.logo>a img{
-    width: 100px;
+.logo>a img{
+    width: auto !important;
     height: 100px;
+    margin-left: 12px;
 }
