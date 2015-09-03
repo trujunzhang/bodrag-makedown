@@ -1,0 +1,19 @@
+.logo { margin:0 0 0 0; }
+body #motopress-main.main-holder .content-holder ul.products li.product >a img, body #motopress-main.main-holder .content-holder div.product div.images >a img, body #motopress-main.main-holder .content-holder div.product div.images .thumbnails >a img {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    width:auto !important;
+    height:auto !important;
+    display:block;
+    margin:0 0 24px;
+    background:#ffffff;
+    border:none;
+    border-radius:0;
+    box-shadow:none;
+    padding:0;
+    -webkit-transition:all ease-in-out .2s;
+    -moz-transition:all ease-in-out .2s;
+    -o-transition:all ease-in-out .2s;
+    transition:all ease-in-out .2s;
+}
