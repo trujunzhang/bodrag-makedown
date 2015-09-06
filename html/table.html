@@ -129,8 +129,6 @@
     <script type='text/javascript'
             src='http://localhost/bodrag/wp-content/plugins/cherry-plugin/lib/js/elasti-carousel/jquery.elastislide.js?ver=1.2.8'></script>
     <script type='text/javascript'
-            src='//maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.2.4'></script>
-    <script type='text/javascript'
             src='http://localhost/bodrag/wp-content/themes/CherryFramework/js/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
     <script type='text/javascript' src='http://localhost/bodrag/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
     <script type='text/javascript'
@@ -467,7 +465,7 @@
 
 
                                     <div id="slider1_container"
-                                         style="position: relative; margin: 0 auto;top: 0px; left: 0px; width: 100%; height: 360px; overflow: hidden;">
+                                         style="position: relative; margin: 0 auto;top: 0px; left: 0px; width: 1300px; height: 360px; overflow: hidden;">
 
                                         <!-- Slides Container -->
                                         <div u="slides"
@@ -701,6 +699,7 @@
                                             //responsive code begin
                                             //you can remove responsive code if you don't want the slider scales while window resizes
                                             function ScaleSlider() {
+                                                var debug = "x";
                                                 var bodyWidth = document.body.clientWidth;
                                                 if (bodyWidth)
                                                     jssor_slider1.$ScaleWidth(Math.min(bodyWidth, 1920));
