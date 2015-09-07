@@ -22,3 +22,7 @@ body #motopress-main.main-holder .content-holder ul.products li.product >a img, 
     height: 100px;
     margin-left: 12px;
 }
+.featured-thumbnail.large img {
+    width:auto;
+    height:auto;
+}
