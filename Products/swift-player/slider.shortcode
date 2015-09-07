@@ -5,7 +5,7 @@ PDF Converter
 <div %title1%>PDF</div>
 <div %title2%>Converter</div>
 <div %description%>It is a tool that helps you to easily convert PDF to Word documents with only a few clicks.</div>
-
+<div %button_before%29.95%button_after%</div>
 
 th1-1-Box_05_Converter.png
 
@@ -16,7 +16,7 @@ Outlook Express Backup Expert
 <div %title1%>Outlook Express</div>
 <div %title2%>Backup Expert</div>
 <div %description%>It is an award winning email backup tool designated for Outlook Express.</div>
-
+<div %button_before%19.95%button_after%</div>
 
 th1-5-Box_02_Outlook.png
 
@@ -27,7 +27,7 @@ RAM Booster Expert
 <div %title1%>RAM Booster</div>
 <div %title2%>Expert</div>
 <div %description%>It is an award winning memory optimization tool.</div>
-
+<div %button_before%24.95%button_after%</div>
 
 th1-3-Box_03_Ram.png
 
@@ -38,7 +38,7 @@ Wipe Expert 3
 <div %title1%>Wipe</div>
 <div %title2%>Expert</div>
 <div %description%>It is a privacy software & internet eraser tool that helps remove all traces of your activity.</div>
-
+<div %button_before%19.95%button_after%</div>
 
 th1-7-Box_06_Wiper.png
 
@@ -49,6 +49,7 @@ Bodrag Utilities 2009
 <div %title1%>Bodrag</div>
 <div %title2%>Utilities 2009</div>
 <div %description%>Optimize your computer and fix system errors.</div>
+<div %button_before%29.95%button_after%</div>
 
 
 th1-9-Box_01_BU.png
